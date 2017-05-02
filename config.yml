@@ -1,0 +1,4 @@
+theme: moon
+title: "TTPS: Ruby"
+revealjs_config:
+  history: true
